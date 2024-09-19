@@ -1,8 +1,9 @@
-<div style="display: flex; justify-content: center; align-items: center; padding: 20px; background-color: #e0e0e0; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);">
-  <p style="color: #003366; font-size: 24px; margin: 0; font-family: 'Arial', sans-serif; text-align: center;">
+<div style="text-align: center; padding: 20px;">
+  <p style="color: #003366; font-size: 24px; margin: 0; font-family: Arial, sans-serif;">
     Hello, welcome to my GitHub profile! 👋
   </p>
 </div>
+
 
 ### 🧑‍💻🎨technology
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
