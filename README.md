@@ -1,10 +1,11 @@
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <p style="color: gray; font-size: 24px; margin: 0; font-family: 'Courier New', monospace;">
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; padding: 20px;">
+  <p style="color: gray; font-size: 24px; margin: 0; font-family: 'Courier New', monospace; text-align: left;">
     ¡Hola, bienvenido a mi perfil de GitHub! 👋
   </p>
-  <img src="https://media.giphy.com/media/uB0JKPayeexpfdtJIq/giphy.gif" width="200px" />
+  <img src="https://media.giphy.com/media/uB0JKPayeexpfdtJIq/giphy.gif" width="200px" style="margin-left: 20px; max-width: 100%; height: auto;" />
 </div>
+
 
 
 
