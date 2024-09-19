@@ -1,8 +1,5 @@
-<div style="text-align: center; padding: 20px;">
-  <p style="color: #003366; font-size: 24px; margin: 0; font-family: Arial, sans-serif; font-weight: bold;">
-    Hello, welcome to my GitHub profile! 👋
-  </p>
-</div>
+
+#  Hello, welcome to my GitHub profile! 👋
 
 
 ### 🧑‍💻🎨technology
